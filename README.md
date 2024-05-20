@@ -1,2 +1,0 @@
-# CODSOFT
-simple-calculator
